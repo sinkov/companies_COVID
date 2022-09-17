@@ -1,4 +1,4 @@
-# This repo contains accomplished assignment in Data Visualization using different Python libraries
+# This repo contains accomplished assignment in Data Visualization
 1) Mid-term group project 'What makes Tic-Toc videos popular'?
 2) Business foundational patterns during pandemic in the UK
 
