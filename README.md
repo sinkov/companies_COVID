@@ -1,8 +1,6 @@
-# This repo contains accomplished assignment in Data Visualization
-1) Mid-term group project 'What makes Tic-Toc videos popular'?
-2) Business foundational patterns during pandemic in the UK
+# This repo contains accomplished assignments (Python notebooks with comments) in Data Visualization
 
-# 1) Mid-term group project
+# 1) Mid-term group project 'What makes Tic-Toc videos popular'?
 Students — working in groups — are supposed:
 
 1. to familiarize with the [TikTok Trending
@@ -12,7 +10,7 @@ statistical charts that complement an article for the printed version of the New
 York Times on 'what makes TikTok' videos (super-)popular
 3. to produce a companion document that — in plain English — describes and
 arguments the design choices behind the three statistical charts
-# 2) Final course project
+# 2) Final course project 'Business foundational patterns during pandemic in the UK'
 
 ## Aim and context
 
