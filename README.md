@@ -1,7 +1,7 @@
 
 Final course project 'Business foundational patterns during pandemic in the UK'
 
-![Screenshot](open.png)
+![Screenshot](open.jpeg)
 
 ## Aim and context
 
